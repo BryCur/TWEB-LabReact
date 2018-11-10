@@ -1,5 +1,4 @@
 import React from 'react';
-import '../App.css';
 
 class TopBar extends React.Component {
     render(){
